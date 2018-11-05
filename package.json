@@ -13,9 +13,9 @@
   "author": "Thiago Oliviera",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ThiagoWho42/node-api-balta.io/issues"
+    "url": "https://github.com/ThiagoWho42/api-node-balta.io/issues"
   },
-  "homepage": "https://github.com/ThiagoWho42/node-api-balta.io#readme",
+  "homepage": "https://github.com/ThiagoWho42/api-node-balta.io#readme",
   "dependencies": {
     "debug": "^4.1.0",
     "express": "^4.16.4",
